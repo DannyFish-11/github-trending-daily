@@ -2,6 +2,10 @@
 
 This report summarizes the top 16 trending projects on GitHub.
 
+## 📋 综合摘要
+
+查看 [GitHub Trending 每日摘要 - 2026-02-06](github_trending_digest_2026-02-06.md) 获取今日热门项目的详细分析和趋势洞察。
+
 ## Trending Projects
 
 ### 1. [bytedance/UI-TARS-desktop](01_bytedance_UI-TARS-desktop.md)
